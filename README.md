@@ -6,9 +6,9 @@
 
 <h3 align="left">Redes sociales:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kevin-esquivel-174b101b3" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="kevin-esquivel-174b101b3" height="50" width="50" style="color: #FFF;" /></a>
-  <a href="https://codepen.io/kevine97" target="blank"><img align="center" src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" alt="kevine97" height="50" width="50" /></a>
-<a href="https://discord.gg/Kevin_e97" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="Kevin_e97" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/kevin-esquivel-174b101b3" target="_blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="kevin-esquivel-174b101b3" height="50" width="50" style="color: #FFF;" /></a>
+  <a href="https://codepen.io/kevine97" target="_blank"><img align="center" src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" alt="kevine97" height="50" width="50" /></a>
+<a href="https://discord.gg/Kevin_e97" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="Kevin_e97" height="50" width="50" /></a>
 </p>
 
 
